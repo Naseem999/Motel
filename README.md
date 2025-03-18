@@ -1,6 +1,46 @@
 # Motel
 
-![mob_logo](https://github.com/user-attachments/assets/6fea28ad-7258-4554-9817-d8c5b1fec7f0)<?xml version="1.0"? width="100" height="100" >
+![mob_logo](https://github.com/user-attachments/assets/0cf70ba0-3779-4d4a-af66-1e7b5810e5b5)<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 92.896 92.896" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g transform="matrix(0.9400000000000001,0,0,0.9400000000000001,2.7868801116943374,2.786909866333012)">
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<polygon points="0,51.115 0,90.161 33.818,90.161 33.811,84.637   " fill="#e9e9e9" data-original="#000000" style="" class=""/>
+		<polygon points="59.078,90.168 92.896,90.168 92.896,51.121 59.086,84.645   " fill="#e9e9e9" data-original="#000000" style="" class=""/>
+		<polygon points="92.896,2.925 46.547,48.879 0,2.729 0,42.438 46.547,88.588 92.889,42.641   " fill="#e9e9e9" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+</g></svg>
+
 
 A comprehensive hotel booking website template made with HTML, CSS, MaterializeCSS, jQuery, and JavaScript. This template is designed to provide a seamless user experience for motel websites, with a range of features and functionalities that make it easy to manage and update content.
 
