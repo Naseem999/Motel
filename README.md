@@ -1,5 +1,8 @@
-![MOTEL-HOME1](https://github.com/user-attachments/assets/85804458-a0d5-45ae-9f88-4e40b377daea)
 # Motel
+
+![logo](https://github.com/user-attachments/assets/8ea2ec50-adf1-4371-90d9-b627906bd398)
+
+
 A comprehensive hotel booking website template made with HTML, CSS, MaterializeCSS, jQuery, and JavaScript. This template is designed to provide a seamless user experience for motel websites, with a range of features and functionalities that make it easy to manage and update content.
 
 
