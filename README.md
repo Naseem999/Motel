@@ -1,7 +1,7 @@
 # Motel
 
 ![mob_logo](https://github.com/user-attachments/assets/6fea28ad-7258-4554-9817-d8c5b1fec7f0)<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 92.896 92.896" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g transform="matrix(0.9400000000000001,0,0,0.9400000000000001,2.7868801116943374,2.786909866333012)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="200" height="200" x="0" y="0" viewBox="0 0 92.896 92.896" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g transform="matrix(0.9400000000000001,0,0,0.9400000000000001,2.7868801116943374,2.786909866333012)">
 <g xmlns="http://www.w3.org/2000/svg">
 	<g>
 		<polygon points="0,51.115 0,90.161 33.818,90.161 33.811,84.637   " fill="#e9e9e9" data-original="#000000" style="" class=""/>
