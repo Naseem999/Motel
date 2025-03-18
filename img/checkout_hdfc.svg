@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="612"
+   height="792"
+   id="svg7"
+   viewBox="0 0 612 792"
+   sodipodi:docname="hdfc-bank-seeklogo.com.cdr">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview9" />
+  <g
+     id="Layer1000">
+    <path
+       d="M 439.6404,431.4495 V 544.888 H 337.8192 v 59.378 H 492.9375 V 431.4495 Z M 337.8192,187.734 v 59.378 h 101.8212 v 113.4385 h 53.2971 V 187.734 Z m -63.6384,59.378 V 187.734 H 119.0625 v 172.8165 h 53.2971 V 247.112 Z m 0,297.776 H 172.3596 V 431.4495 H 119.0625 V 604.266 h 155.1183 z"
+       style="fill:#009ee0;fill-rule:evenodd"
+       id="path2" />
+    <path
+       d="M 234.4069,316.2386 V 475.7614 H 377.5931 V 316.2386 Z"
+       style="fill:#e30016;fill-rule:evenodd"
+       id="path4" />
+  </g>
+</svg>
