@@ -26,8 +26,11 @@ Motel is a hotel booking website template that provides a range of features and 
 ## Quick Look
 
 ![MOTEL-HOME1](https://github.com/user-attachments/assets/b0f4c31a-06ec-4e3a-b5b4-060a34247c0c)
+##
 ![MOTEL-Home-2](https://github.com/user-attachments/assets/b641baf5-ab8b-4120-a218-f2469f8b5914)
+##
 ![Motel-Room-Default](https://github.com/user-attachments/assets/1ca420d6-273a-4d20-b130-c56b3ba3f2f2)
+##
 ![Motel-Account](https://github.com/user-attachments/assets/baad1b74-e7e2-48f3-a07f-91b6e81a3308)
 
 
